@@ -6,3 +6,9 @@ url: https://riqky.github.io
 color_scheme: dark
 nav_enabled: true
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
