@@ -1,6 +1,6 @@
 ---
 title: Whoop
-parent: test
+parent: Test
 nav_order: 1
 ---
 
